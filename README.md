@@ -82,7 +82,7 @@ flowchart TB
 
 | # | Chapter | Sources (Blitzstein · Wasserman) | NotebookLM 🎧 | 📊 R notebook |
 |---|---|---|---|---|
-| 1 | [Foundations: sample spaces, counting, probability axioms, conditional probability](chapters/01-foundations/notes.md)<br/><sub>*"Probability is a measure on a sample space; everything else is bookkeeping."*</sub> | Ch 1–2 · Ch 1 | _soon_ | _soon_ |
+| 1 | [Foundations: sample spaces, counting, probability axioms, conditional probability](chapters/01-foundations/notes.md)<br/><sub>*"Probability is a measure on a sample space; everything else is bookkeeping."*</sub> | Ch 1–2 · Ch 1 | [open ↗](https://notebooklm.google.com/notebook/bb199913-6520-4a21-95be-65c5dcd3dd5e) | [view](chapters/01-foundations/code/01_foundations.ipynb) |
 | 2 | [Discrete random variables and their distributions](chapters/02-discrete-rvs/notes.md)<br/><sub>*"A random variable is a measurable function Ω → ℝ; its distribution is the pushforward."*</sub> | Ch 3–4 · — | _soon_ | _soon_ |
 | 3 | [Expectation, variance, covariance, moments](chapters/03-expectation-variance/notes.md)<br/><sub>*"Linearity of expectation — the single most useful identity in probability."*</sub> | Ch 4–6 · — | _soon_ | _soon_ |
 | 4 | [Continuous distributions, joint distributions, change of variables](chapters/04-continuous-and-joint/notes.md)<br/><sub>*"PDFs, Jacobians, the bivariate and multivariate normal. Matrices introduced here as bookkeeping; no LA background needed."*</sub> | Ch 5, 7–8 · Ch 2 | _soon_ | _soon_ |

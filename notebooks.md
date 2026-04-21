@@ -6,7 +6,7 @@ Each chapter also ships with a runnable **R notebook** (`.ipynb` using IRkernel,
 
 | # | Chapter | NotebookLM 🎧 | 📊 R notebook |
 |---|---|---|---|
-| 1 | Foundations: sample spaces, counting, probability axioms, conditional probability | _coming soon_ | _coming soon_ |
+| 1 | Foundations: sample spaces, counting, probability axioms, conditional probability | [Open in NotebookLM ↗](https://notebooklm.google.com/notebook/bb199913-6520-4a21-95be-65c5dcd3dd5e) | [view ipynb](chapters/01-foundations/code/01_foundations.ipynb) |
 | 2 | Discrete random variables and their distributions | _coming soon_ | _coming soon_ |
 | 3 | Expectation, variance, covariance, moments | _coming soon_ | _coming soon_ |
 | 4 | Continuous distributions, joint distributions, change of variables | _coming soon_ | _coming soon_ |

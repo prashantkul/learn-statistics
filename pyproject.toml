@@ -1,0 +1,13 @@
+[project]
+name = "learn-statistics"
+version = "0.1.0"
+description = "Self-study probability and statistics curriculum (10 chapters, anchored on Blitzstein & Hwang and Wasserman) with R notebooks (IRkernel) and NotebookLM integration."
+requires-python = ">=3.13"
+# Python is used only for repo tooling: PDF extraction and serving JupyterLab
+# (which hosts the R kernel for the student-facing notebooks). All stats content
+# itself is R — see CLAUDE.md and CONTRIBUTING.md.
+dependencies = [
+    "jupyterlab>=4.5.6",
+    "pypdf>=6.10.2",
+    "pyyaml>=6.0.3",
+]

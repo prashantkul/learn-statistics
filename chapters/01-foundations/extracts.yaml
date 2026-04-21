@@ -1,0 +1,15 @@
+# Page ranges (book page numbers) to extract for Ch 1's NotebookLM notebook.
+# Mirrors the references in sources.md. Run via:
+#   uv run scripts/extract_pages.py chapters/01-foundations
+extracts:
+  - book: blitzstein
+    pages: "1-44"
+    title: "Blitzstein Ch 1 — Probability and counting"
+
+  - book: blitzstein
+    pages: "45-102"
+    title: "Blitzstein Ch 2 — Conditional probability"
+
+  - book: wasserman
+    pages: "3-18"
+    title: "Wasserman Ch 1 — Probability"

@@ -1,0 +1,15 @@
+# Page ranges (book page numbers) to extract for Ch 08's NotebookLM notebook.
+# Fill in the page ranges as the notes.md draft nails down which sections are
+# used. Run via:
+#   uv run scripts/extract_pages.py chapters/08-<slug>
+#
+# Tip: book p. = printed page number (as cited in sources.md). The script
+# adds the per-book offset automatically (Blitzstein +17, Wasserman +16).
+extracts: []
+# Example entry shape (uncomment and edit):
+#   - book: blitzstein
+#     pages: "3-30"
+#     title: "Blitzstein Ch 1 — Probability and counting"
+#   - book: wasserman
+#     pages: "3-17"
+#     title: "Wasserman Ch 1 — Probability"

@@ -2,7 +2,7 @@
 
 > *"A random variable is a measurable function Ω → ℝ; its distribution is the pushforward."*
 >
-> 🎧 **NotebookLM:** _coming soon_
+> 🎧 **Pre-built NotebookLM:** [open it here](https://notebooklm.google.com/notebook/38bf32c7-1249-406a-9a9a-71423130adad) — audio overview (podcast), quiz, mind map, slide deck, infographic, Briefing Doc + Study Guide reports, and chat-with-sources. Click *"Make a copy"* in NotebookLM to clone it to your own account.
 
 ## Anchor problem
 
